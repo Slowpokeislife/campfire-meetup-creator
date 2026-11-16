@@ -2,7 +2,7 @@
 
 **An Android companion app for organizing Pokémon GO community meetups — from event artwork to attendance exports.**
 
-Built originally to simplify meetup preparation for a local Pokémon GO community in Puebla, Mexico, and designed to be customizable for other communities.
+Originally developed to streamline the planning of meetups for a local Pokémon GO community, it is designed to be customizable for other communities as well.
 
 > **Independent community project.** Not affiliated with, sponsored by, or endorsed by Niantic, Scopely, The Pokémon Company, or Nintendo. Campfire Tools is a separate third-party service.
 
