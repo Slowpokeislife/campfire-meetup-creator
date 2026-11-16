@@ -1,0 +1,1 @@
+These are sample images that can be changed within the application; they must be uploaded upon logging in.
