@@ -1,0 +1,9 @@
+Corrección V1.6.1: enlaces cortos cmpf.re y URLs de evento de Campfire Tools.
+
+1. Abre tu proyecto Android Studio.
+2. Copia CampfireClient.kt a app/src/main/java/com/pokeponche/meetups/
+3. Reemplaza únicamente ese archivo. No borres la app ni los datos.
+4. Build > Make Project y ejecuta.
+5. Prueba con https://cmpf.re/Ao4whw o https://cmpf-tools.de/event/e2e9a8a7-f4ec-462c-8d55-15e43b058f57
+
+Nota: la API pública admite links/IDs, pero no hemos probado desde Android la resolución de todos los acortadores. Si el enlace corto devuelve un registro vacío, pega la URL completa de cmpf-tools.de/event/UUID. La importación puede ser asíncrona.
